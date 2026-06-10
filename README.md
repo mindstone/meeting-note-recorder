@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="docs/assets/dash.svg" alt="Dash, the Rebel character for automation and momentum — never miss a meeting" width="112" />
+</p>
+
 # Meeting Note Recorder
 
 Meeting Note Recorder is a desktop app that notices when you join an online
